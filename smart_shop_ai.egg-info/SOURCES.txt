@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+app/__init__.py
+app/assistant.py
+app/config.py
+app/database.py
+app/main.py
+app/models.py
+app/routes.py
+app/schemas.py
+smart_shop_ai.egg-info/PKG-INFO
+smart_shop_ai.egg-info/SOURCES.txt
+smart_shop_ai.egg-info/dependency_links.txt
+smart_shop_ai.egg-info/requires.txt
+smart_shop_ai.egg-info/top_level.txt
+tests/test_smoke.py
